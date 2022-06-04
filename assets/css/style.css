@@ -184,7 +184,7 @@ body {
   }
   
   
-  /* Header Style */
+  
   header {
       position: absolute;
       z-index: 99999;
@@ -290,7 +290,7 @@ body {
   
   
   
-  /* Banner Style */
+
   .banner {
       position: relative;
       text-align: center;
@@ -382,7 +382,6 @@ body {
   
   
   
-  /* Latest Produtcs */
   
   .latest-products {
       margin-top: 100px;
@@ -460,7 +459,7 @@ body {
       margin-top: 10%; 
   }
   
-  /* Best Features */
+ 
   
   .about-features {
       margin-top: 100px!important;
@@ -542,7 +541,7 @@ body {
   
   
   
-  /* Call To Action */
+
   
   .call-to-action .inner-content {
       margin-top: 60px;
@@ -573,7 +572,7 @@ body {
   
   
   
-  /* Footer */
+
   
   footer {
       text-align: center;
@@ -597,7 +596,7 @@ body {
   
   
   
-  /* Product Page */
+
   
   .products {
       margin-top: 100px;
@@ -681,7 +680,7 @@ body {
   
   
   
-  /* Team Members */
+
   
   .team-members {
       margin-top: 100px;
@@ -754,7 +753,7 @@ body {
   
   
   
-  /* Services */
+
   
   .services {
       background-position: center center;
@@ -828,7 +827,7 @@ body {
       background: #f33f3f!important; 
   }
   
-  /* Clients */
+  
   
   .happy-clients {
       margin-top: 100px;
@@ -853,7 +852,7 @@ body {
   
   
   
-  /* Find Us */
+
   
   .find-us {
       margin-top: 100px;
@@ -877,7 +876,7 @@ body {
   
   
   
-  /* Send Message */
+
   
   .send-message {
       margin-top: 100px;
@@ -989,7 +988,7 @@ body {
   }
   
   
-  /* Responsive Style */
+
   @media (max-width: 768px) {
       .banner .text-content {
           width: 90%;

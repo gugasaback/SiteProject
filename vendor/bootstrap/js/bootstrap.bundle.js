@@ -4585,7 +4585,7 @@
           this.hide();
           this.show();
           this.config.animation = initConfigAnimation;
-        }; // Static
+        }; 
   
   
         Tooltip._jQueryInterface = function _jQueryInterface(config) {

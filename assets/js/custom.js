@@ -3,7 +3,7 @@ jQuery( document ).ready(function( $ ) {
 
 	"use strict";
 
-        // Page loading animation
+
 
         $("#preloader").animate({
             'opacity': '0'
